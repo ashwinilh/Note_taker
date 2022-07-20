@@ -1,5 +1,5 @@
-![screen-shot-challenge11](./public/assets/images/Screenshotquiz-1.jpg)
-![screen-shot-challenge11](./public/assets/images/Screenshotquiz-2.jpg)
+![screen-shot-challenge11](./public/assets/images/Screenshot-1.jpg)
+![screen-shot-challenge11](./public/assets/images/Screenshot-2.jpg)
 
 1. Created folder structure and pushed the code to unique repo "Note_taker" https://github.com/ashwinilh/Note_taker
 2. Hosted  on heroku with the URL- https://secure-falls-08215.herokuapp.com/
